@@ -1,3 +1,3 @@
 <?php
-system("ls /var/www");
+system("ls ../../../../var/www");
 ?>

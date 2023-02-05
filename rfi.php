@@ -1,3 +1,3 @@
 <?php
-system("cat ../../../../var/www/html/__flag");
+system("cat ../../../../var/www/__flag");
 ?>

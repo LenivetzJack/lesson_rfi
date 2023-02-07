@@ -1,5 +1,5 @@
 <?php
 
-system("ls /var/www/html");
+system("cat /etc/passwd");
 
 ?>

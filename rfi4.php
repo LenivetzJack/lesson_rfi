@@ -1,5 +1,5 @@
 <?php
 
-system("ls /var/www/html/____flag");
+system("cat /var/www/html/____flag");
 
 ?>
